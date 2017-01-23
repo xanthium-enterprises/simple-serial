@@ -1,0 +1,18 @@
+D:\PERSONAL\SourceCodes\Simple-Serial-VS2013\Simple-Serial-VS2013\bin\Debug\Simple-Serial-VS2013.exe.config
+D:\PERSONAL\SourceCodes\Simple-Serial-VS2013\Simple-Serial-VS2013\bin\Debug\Simple-Serial-VS2013.exe
+D:\PERSONAL\SourceCodes\Simple-Serial-VS2013\Simple-Serial-VS2013\bin\Debug\Simple-Serial-VS2013.pdb
+D:\PERSONAL\SourceCodes\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple-Serial-VS2013.csprojResolveAssemblyReference.cache
+D:\PERSONAL\SourceCodes\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple_Serial_VS2013.Form1.resources
+D:\PERSONAL\SourceCodes\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple_Serial_VS2013.Properties.Resources.resources
+D:\PERSONAL\SourceCodes\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple-Serial-VS2013.csproj.GenerateResource.Cache
+D:\PERSONAL\SourceCodes\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple-Serial-VS2013.exe
+D:\PERSONAL\SourceCodes\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple-Serial-VS2013.pdb
+D:\PERSONAL\SourceCodes\Simple Serial\Simple-Serial-VS2013\Simple-Serial-VS2013\bin\Debug\Simple-Serial-VS2013.exe.config
+D:\PERSONAL\SourceCodes\Simple Serial\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple-Serial-VS2013.exe
+D:\PERSONAL\SourceCodes\Simple Serial\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple-Serial-VS2013.pdb
+D:\PERSONAL\SourceCodes\Simple Serial\Simple-Serial-VS2013\Simple-Serial-VS2013\bin\Debug\Simple-Serial-VS2013.exe
+D:\PERSONAL\SourceCodes\Simple Serial\Simple-Serial-VS2013\Simple-Serial-VS2013\bin\Debug\Simple-Serial-VS2013.pdb
+D:\PERSONAL\SourceCodes\Simple Serial\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple-Serial-VS2013.csprojResolveAssemblyReference.cache
+D:\PERSONAL\SourceCodes\Simple Serial\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple_Serial_VS2013.Form1.resources
+D:\PERSONAL\SourceCodes\Simple Serial\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple_Serial_VS2013.Properties.Resources.resources
+D:\PERSONAL\SourceCodes\Simple Serial\Simple-Serial-VS2013\Simple-Serial-VS2013\obj\Debug\Simple-Serial-VS2013.csproj.GenerateResource.Cache
