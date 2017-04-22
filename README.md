@@ -1,6 +1,6 @@
 # Simple Serial
 Simple-Serial is a GUI based Serial port communication program written in **C#** for Windows Platform.The software can also run on Linux systems using the Mono framework.
-The Program can run on both .NET framework and Mono runtime.
+
 It is geared towards embedded developers and hobbyists who wants to use it as a starting point for  building a serial port based Control system or Data Acquisition system.
 
 <img src = "http://www.xanthium.in/sites/default/files/site-images/serial-prog-csharp-gui/opensource-csharp-serial-port-software.jpg"/>
